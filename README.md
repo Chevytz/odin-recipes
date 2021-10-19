@@ -1,0 +1,2 @@
+Este es un sencillo sitio de recetas donde atesoro las que mas me gustan y mas ricas me salen.
+Cuando este terminado deberia de haber confirmado que se a hacer la estructura html, crear todas las paginas con sus consiguientes links funcionando y crear los repositorios y clonarlos para que quede git andando.
