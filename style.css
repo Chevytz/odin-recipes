@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: rgb(rgb(143, 59, 59), green, blue);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+img {
+    height: 300px; 
+    width: 400px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links {
+    text-align: center;
+    color:rgb(rgb(192, 84, 84), green, blue);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 350px;
+}
+
